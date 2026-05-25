@@ -2,6 +2,8 @@
 
 Dépôt de distribution de l'application Android.
 
+Version distribuée actuelle : `v1.1.0`
+
 Ce dépôt public contient uniquement :
 
 - la page de présentation ;
@@ -13,6 +15,10 @@ Le code source de l'application n'est pas distribué dans ce dépôt.
 ## Télécharger l'application
 
 Ouvrir la [dernière release](../../releases/latest) et télécharger le fichier `revision-naturalisation-francaise.apk`.
+
+Page de présentation : <https://oznanis.github.io/revision-naturalisation-francaise/>
+
+Politique de confidentialité : <https://oznanis.github.io/revision-naturalisation-francaise/privacy.html>
 
 ## Information importante
 
