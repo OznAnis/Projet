@@ -10,6 +10,5 @@ Cette application est indépendante. Elle n'est pas affiliée au gouvernement fr
 
 Les informations fournies sont indicatives et peuvent évoluer. L'utilisateur doit vérifier les informations importantes auprès des sources officielles. Cette application ne garantit pas l'obtention de la nationalité française.
 
-Contact public : [Profil GitHub OznAnis](https://github.com/OznAnis).
-
+À compléter avant publication : nom légal ou nom d'édition du titulaire des droits et adresse de contact publique.
 

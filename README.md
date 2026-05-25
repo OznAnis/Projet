@@ -16,7 +16,9 @@ Ouvrir la [dernière release](../../releases/latest) et télécharger le fichier
 
 ## Information importante
 
-Cette application est indépendante et non officielle. Elle n'est affiliée à l'administration française, au gouvernement français, aux préfectures, ni à aucun service public. Elle est un outil d'aide à la révision et ne garantit pas l'obtention de la nationalité française.
+Cette application est indépendante. Elle n'est pas affiliée au gouvernement français, aux préfectures, au ministère de l'Intérieur ou à une administration publique. Elle est conçue comme un outil d'aide à la révision.
+
+Les informations fournies sont indicatives et peuvent évoluer. L'utilisateur doit vérifier les informations importantes auprès des sources officielles. L'application ne garantit pas l'obtention de la nationalité française.
 
 ## Droits
 
